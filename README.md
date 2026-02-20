@@ -1,5 +1,7 @@
 # Winona Backend Challenge
 
+Developed by [Guido Ponce](https://www.linkedin.com/in/guido-ponce-38439a1b5/)
+
 ## Setup
 
 This is a NestJS application.
